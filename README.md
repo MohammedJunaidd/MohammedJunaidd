@@ -1,15 +1,4 @@
 ![Screenshot 2024-01-20 161917](https://github.com/MohammedJunaidd/MohammedJunaidd/assets/157123024/6aef087d-1014-4248-a68f-486b1763a32a)
-<video controls width="250">
-  <source src="/media/cc0-videos/flower.webm" type="video/webm" />
-
-  <source src="/media/cc0-videos/flower.mp4" type="video/mp4" />
-
-  Download the
-  <a href="/media/cc0-videos/flower.webm">WEBM</a>
-  or
-  <a href="/media/cc0-videos/flower.mp4">MP4</a>
-  video.
-</video>
 
 <h1 align="center">Hi 👋, I'm Mohammed Junaid</h1>
 <h3 align="center">A Passionate Software Engineer From India</h3>
